@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminGroupOverride", "AdminGroupOverride\AdminGroupOverride\AdminGroupOverride.csproj", "{D2E8AED6-056A-49AE-97A2-6998A0C2C8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "AdminGroupOverride\CakeBuild\CakeBuild.csproj", "{B6999051-6B39-469F-AC06-89EDED10E87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E8AED6-056A-49AE-97A2-6998A0C2C8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E8AED6-056A-49AE-97A2-6998A0C2C8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E8AED6-056A-49AE-97A2-6998A0C2C8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E8AED6-056A-49AE-97A2-6998A0C2C8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6999051-6B39-469F-AC06-89EDED10E87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6999051-6B39-469F-AC06-89EDED10E87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6999051-6B39-469F-AC06-89EDED10E87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6999051-6B39-469F-AC06-89EDED10E87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
