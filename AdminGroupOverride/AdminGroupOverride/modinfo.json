@@ -8,7 +8,7 @@
         "SiiMeR"
     ],
     "description": "Allows admins to perform all privileged group actions—such as invite, kick and op—even in groups they didn't create or aren't a member of",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "game": ""
     }
